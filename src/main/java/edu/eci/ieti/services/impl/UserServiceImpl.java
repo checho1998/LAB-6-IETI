@@ -25,7 +25,7 @@ public class UserServiceImpl implements UserService {
     public User getById(String userId) {
         User answ = null;
         for (User cli:usuarios){
-            if (cli.getId() == userId){
+            if (cli.getId().equals(userId) ){
                 answ = cli;
             }
         }
