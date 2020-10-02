@@ -5,7 +5,8 @@
 #### Codigo Fuente:
 - BackEnd:  https://github.com/checho1998/LAB-6-IETI
 - FrontEnd: https://github.com/checho1998/LAB-3-IETI
-Despliegue en Heroku:
+
+#### Despliegue en Heroku:
 
 - BackEnd: https://fierce-dusk-19636.herokuapp.com/Users/usuarios
 
