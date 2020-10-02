@@ -4,6 +4,9 @@
 
 - https://fierce-dusk-19636.herokuapp.com/Users/usuarios
 
+## Fin
+
+![Imagenes](https://github.com/checho1998/LAB-6-IETI/blob/master/Imagenes/1.PNG)
 
 ### Codigo de Honor
 
