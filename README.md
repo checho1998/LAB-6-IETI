@@ -1,8 +1,15 @@
 # LAB-6-IETI
 
-## Link Heroku
+## Links
 
-- https://fierce-dusk-19636.herokuapp.com/Users/usuarios
+#### Codigo Fuente:
+- BackEnd:  https://github.com/checho1998/LAB-6-IETI
+- FrontEnd: https://github.com/checho1998/LAB-3-IETI
+Despliegue en Heroku:
+
+- BackEnd: https://fierce-dusk-19636.herokuapp.com/Users/usuarios
+
+- FrontEnd:  https://la-3-ieti.herokuapp.com/
 
 ## Fin
 
